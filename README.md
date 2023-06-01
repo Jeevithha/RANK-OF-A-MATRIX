@@ -23,8 +23,8 @@ End the program.
 ## Program:
 ```
 #Program to find the rank of a matrix.
-#Developed by: 
-#RegisterNumber:
+#Developed by: jeevitha S
+#RegisterNumber:212222100016
 import numpy as np
 A=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(A)
